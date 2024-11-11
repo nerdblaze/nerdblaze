@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @nerdblaze
-- 👀 I’m interested in AI and Forensic
-- 🌱 I’m currently learning VB.NET
+### Hola 👋
+Hi, I’m Avijit Naskar. An embedded software engineer. Passionate about writing software in a tight budget (time and space).
+- 👀 I’m interested in AI and Forensic.
+- 🧠 C, Python, JavaScript and a bit of this and that but language agnostic in general.
+- 🌱 I’m currently learning Rust.
 - 📫 How to reach me anavijitnaskar[@]gmail[dot]com
-
-<!---
-nerdblaze/nerdblaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
